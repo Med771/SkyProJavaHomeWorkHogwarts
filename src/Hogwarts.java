@@ -1,6 +1,6 @@
 import java.util.Objects;
 
-class Hogwarts {
+abstract class Hogwarts {
     // Init
     protected final String name;
     protected final int power;
